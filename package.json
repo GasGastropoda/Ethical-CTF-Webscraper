@@ -8,8 +8,12 @@
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "vite": "^4.0.0",
-    "@vitejs/plugin-react": "^4.0.0"
+    "@vitejs/plugin-react": "^4.0.0",
+    "tailwindcss": "^3.5.0",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14"
   },
+  "type": "module",
   "name": "ethical-ctf-webscraper",
   "description": "exploratory web crawler",
   "version": "1.0.0",
